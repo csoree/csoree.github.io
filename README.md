@@ -61,3 +61,36 @@ p {color: red;}
 ```
 ``` python
 print("szöveg")
+```
+
+
+
+
+Pipe karakter AltGr+W
+
+Fejléc | Fejléc
+-------|-------
+Adatok | Adatok
+KövSor | KövSor
+ ----  | ----
+ stb...| stb...
+
+
+### Szövegformázások (inline)
+
+**félkövér**
+
+*dőlt*
+
+__félkövér__
+
+~~AltGr+1~~
+
+## Linkek
+
+[normalis website](https://puginarug.com/)
+
+
+## Kép beszúrás
+
+![távoli kép] (https://44.media.tumblr.com/8e825f0def3a02c80967dc583751d04e/20da89261c4edb70-11/s540x810_f1/31111ac91cfed99de5fecfe4cec6109802700015.gif)
