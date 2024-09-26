@@ -1,5 +1,5 @@
 # csoree.github.io
-# Sigmakapitany1
+# Sigmakapitany1 TROLOLOLLLLOLOLOLOLOLOLLOLOLOL HAHAHHAHAHA HOHOOHOHOHOH 
 ## Sigmakapitany2
 ### Sigmakapitany3
 #### Sigmakapitany4
