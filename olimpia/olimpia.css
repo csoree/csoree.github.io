@@ -16,6 +16,7 @@
 }
 
 a {
+  color: red;
   
 }
 .img-thumbnail{
@@ -45,5 +46,6 @@ p, li {
 
 .forras:hover {
   text-decoration: underline;
+  text-align: center;
 }
 
