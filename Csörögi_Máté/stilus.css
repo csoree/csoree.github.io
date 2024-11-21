@@ -8,6 +8,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    background-image: url(kepek/are512.jpg);
 }
 
 header {
@@ -37,9 +38,7 @@ p {
     color: #555;
 }
 
-.section {
-    margin-bottom: 40px;
-}
+
 
 img {
     padding: 50px;
